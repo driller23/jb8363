@@ -2,4 +2,4 @@
 
 targil 1: 
 
-```kubectl create depl.....`
+```kubectl run nginx-pod-igal --image=nginx:alpine```
